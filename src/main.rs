@@ -32,8 +32,6 @@ fn build_ui(application: &gtk::Application) {
 
     window.add(&box1);
     window.show_all();
-
-    gtk
 }
 
 fn main() {
